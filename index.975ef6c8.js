@@ -27090,7 +27090,7 @@ var _stylesCss = require("./styles.css");
     name: "Pablo Zader",
     title: "Python and React Developer, specializing in web mapping, GIS, Remote Sensing and Spatial Data Infrastructures",
     email: "pablo.zader@ig.edu.ar",
-    gitHub: "pzader",
+    gitHub: "pjzgeo",
     instagram: "",
     linkedIn: "",
     medium: "",
